@@ -1,3 +1,4 @@
+function CallAllJS(){
 (function ($) {
 
 
@@ -253,3 +254,4 @@
     
 })(jQuery);
 
+}

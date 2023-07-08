@@ -27,7 +27,7 @@ const Sidebar = () => {
                 <div className="nav-item dropdown">
                     <Link to="element" className="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i className="fa fa-laptop me-2"></i>Elements</Link>
                     <div className="dropdown-menu bg-transparent border-0">
-                        <Link to="/button" className="dropdown-item">Buttons</Link>
+                        <Link to="/button" className="dropdown-item">Add</Link>
                         <Link to="/typo" className="dropdown-item">Typography</Link>
                         <Link to="/other" className="dropdown-item">Other Elements</Link>
                     </div>
